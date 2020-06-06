@@ -1,4 +1,4 @@
-# Udacity---Project-II - ADVENTURE GAME
+# Udacity Project-II - ADVENTURE GAME
 
 This is a project to complete the Intro to Programming Nanodegree Program in Python.
 
